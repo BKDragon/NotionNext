@@ -34,7 +34,7 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: 'Feature', // 特性
   STARTER_FEATURE_TEXT_1: 'Monologue Party Key Features', // 特性
   STARTER_FEATURE_TEXT_2:
-    'Monologue Party's vision is to help you get inspiration and motivation from reflective social networking without relying on any real human beings.', // 特性
+    'Monologue Party\'s vision is to help you get inspiration and motivation from reflective social networking without relying on any real human beings.', // 特性
 
   STARTER_FEATURE_1_TITLE_1: 'X Like UX', // 特性1
   STARTER_FEATURE_1_TEXT_1: 'The user experience here is almost identical to the social networks you are familiar with.', // 特性1
