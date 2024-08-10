@@ -20,15 +20,15 @@ const CONFIG = {
 
   // 特性介绍
   LANDING_FEATURES_HEADER_1: 'Everything You Want is Your Echo',
-  LANDING_FEATURES_HEADER_1_P: "There was a time when we wanted to get motivation from Social networks.<br/>Until trolls, polarization, and censorship <strong class='font-bold text-red-500'>destroyed</strong> everything.<br/>Now, a social network where only <strong class='font-bold text-green-500'>you</strong> has emerged.",
-  LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
-  LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
-  LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
-  LANDING_FEATURES_CARD_1_P: '在Notion中写下一篇文章，内容立刻在您的网站首页中呈现给互联网',
-  LANDING_FEATURES_CARD_2_TITLE: '高效传播的媒介',
-  LANDING_FEATURES_CARD_2_P: '优秀的SEO、快速的响应速度，让您的产品和宣传触达到更多的受众',
-  LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
-  LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
+  LANDING_FEATURES_HEADER_1_P: "There was a time when we wanted to get motivation from social networks.<br/>Until trolls, polarization, and censorship <strong class='font-bold text-red-500'>destroyed</strong> everything.<br/>Now, a social network where only <strong class='font-bold text-green-500'>you</strong> has emerged.",
+  LANDING_FEATURES_HEADER_2: 'Reflective Social Networking',
+  LANDING_FEATURES_HEADER_2_P: 'Our unique AI social network simulator allows you to receive light social feedback without relying on any real people.',
+  LANDING_FEATURES_CARD_1_TITLE: 'Familiar Experience',
+  LANDING_FEATURES_CARD_1_P: 'In Monologue Party, you can post content just like you would on Twitter or X.',
+  LANDING_FEATURES_CARD_2_TITLE: 'Visible Only To Yourself',
+  LANDING_FEATURES_CARD_2_P: 'You can post content without anyone else seeing it, free from the worry that your personal matters might cause any issues.',
+  LANDING_FEATURES_CARD_3_TITLE: 'Receiving Feedback From The Void.',
+  LANDING_FEATURES_CARD_3_P: 'Countless random, internet-like AI personas with realistic tones will comment on your content.',
 
   // 特性介绍2
   LANDING_FEATURES_BLOCK_HEADER: '解决方案',
