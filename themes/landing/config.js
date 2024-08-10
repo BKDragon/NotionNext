@@ -15,12 +15,13 @@ const CONFIG = {
   LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
   LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
-  LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
-  LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
+  // LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
+  // LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
 
   // 特性介绍
-  LANDING_FEATURES_HEADER_1: '探索的过程',
-  LANDING_FEATURES_HEADER_1_P: "如何搭建自己的门户网站，塑造一个品牌展示中心？<br/>曾经，它是系统<strong class='font-bold text-red-500'>繁重</strong>的Wordpress、是操作<strong class='font-bold  text-red-500'>复杂</strong>的Hexo、是<strong class='font-bold text-red-500'>昂贵</strong>且<strong class='font-bold text-red-500'>不稳定</strong>的技术团队;<br/>现在，只要一个Notion笔记就够了",
+  LANDING_FEATURES_HEADER_1: 'Everything You Want is Your Echo',
+  LANDING_FEATURES_HEADER_1_P: "There was a time when we wanted to get motivation from Social networks.
+<br/>Until trolls, polarization, and censorship <strong class='font-bold text-red-500'>destroyed</strong> everything.<br/>Now, a social network where only <strong class='font-bold text-green-500'>you</strong> has emerged.",
   LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
   LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
   LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
