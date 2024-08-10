@@ -41,21 +41,21 @@ const CONFIG = {
   // STARTER_FEATURE_1_BUTTON_TEXT: '了解更多',  特性1
   // STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext',  特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+  STARTER_FEATURE_2_TITLE_1: 'Only You', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'You can post content without anyone else seeing it, free from the worry that your personal matters might cause any issues.', // 特性2
+  // STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', 特性2
+  // STARTER_FEATURE_2_BUTTON_URL:
+  //   'https://docs.tangly1024.com/article/notion-next-themes', 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TITLE_1: 'Feedback Form Void', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'Even without allowing any other “humans” to read your tweets, you can still get human-like comfort from AI.', // 特性3
+  // STARTER_FEATURE_3_BUTTON_TEXT: '了解更多',  特性3
+  // STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js',  特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_TITLE_1: 'Real netizens\’ tone', // 特性4
+  STARTER_FEATURE_4_TEXT_1: 'Countless random, internet-like AI personas with realistic tones will comment on your content.', // 特性4
+  // STARTER_FEATURE_4_BUTTON_TEXT: '了解更多',  特性4
+  // STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about',  特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
