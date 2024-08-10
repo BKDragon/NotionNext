@@ -20,8 +20,7 @@ const CONFIG = {
 
   // 特性介绍
   LANDING_FEATURES_HEADER_1: 'Everything You Want is Your Echo',
-  LANDING_FEATURES_HEADER_1_P: "There was a time when we wanted to get motivation from Social networks.
-<br/>Until trolls, polarization, and censorship <strong class='font-bold text-red-500'>destroyed</strong> everything.<br/>Now, a social network where only <strong class='font-bold text-green-500'>you</strong> has emerged.",
+  LANDING_FEATURES_HEADER_1_P: "There was a time when we wanted to get motivation from Social networks.<br/>Until trolls, polarization, and censorship <strong class='font-bold text-red-500'>destroyed</strong> everything.<br/>Now, a social network where only <strong class='font-bold text-green-500'>you</strong> has emerged.",
   LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
   LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
   LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
