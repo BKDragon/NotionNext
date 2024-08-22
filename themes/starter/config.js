@@ -59,16 +59,16 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
+  STARTER_ABOUT_TITLE: 'More than just Social networks simulators',
   STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
-  STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
-  STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
-  STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '博客站点',
-  STARTER_ABOUT_TIPS_3: '正在线上运行',
+    'Since the launch of Twitter (now X) in 2006, social media has evolved beyond just a means of connecting communities—it has become a crucial tool for self-reflection.<br /> <br />Creators worldwide gain feedback through comments and retweets, fueling their creativity. Ordinary users use it to document their lives and receive kind feedback from strangers. Thinkers draw inspiration and references from constructive debates to improve themselves.<br /> <br />However, with the rise of online trolls, real social media is losing these functions. Fortunately, we can rebuild all of this with Monologue Party.',
+  STARTER_ABOUT_BUTTON_TEXT: 'About More',
+  STARTER_ABOUT_BUTTON_URL: 'https://monologue.party/about',
+  STARTER_ABOUT_IMAGE_1: 'https://i0.wp.com/feed.monologue.party/wp-content/uploads/2024/08/about-image-01.webp',
+  STARTER_ABOUT_IMAGE_2: 'https://i0.wp.com/feed.monologue.party/wp-content/uploads/2024/08/about-image-02.webp',
+  STARTER_ABOUT_TIPS_1: '24 Hrs',
+  STARTER_ABOUT_TIPS_2: 'Any topic',
+  STARTER_ABOUT_TIPS_3: 'Real netizens' tone',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
