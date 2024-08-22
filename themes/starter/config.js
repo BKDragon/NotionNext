@@ -68,7 +68,7 @@ const CONFIG = {
   STARTER_ABOUT_IMAGE_2: 'https://i0.wp.com/feed.monologue.party/wp-content/uploads/2024/08/about-image-02.webp',
   STARTER_ABOUT_TIPS_1: '24 Hrs',
   STARTER_ABOUT_TIPS_2: 'Any topic',
-  STARTER_ABOUT_TIPS_3: 'Real netizens' tone',
+  STARTER_ABOUT_TIPS_3: 'Real netizens\' tone',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
