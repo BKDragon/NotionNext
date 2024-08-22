@@ -3,8 +3,8 @@
  */
 const CONFIG = {
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
-  STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
-  STARTER_LOGO_WHITE: '', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
+  STARTER_LOGO: 'https://i0.wp.com/feed.monologue.party/wp-content/uploads/2024/08/monologueparty-512.webp', // 普通logo图片 示例：/images/starter/logo/logo.svg
+  STARTER_LOGO_WHITE: 'https://i0.wp.com/feed.monologue.party/wp-content/uploads/2024/08/monologueparty-512.webp', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
 
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://i0.wp.com/feed.monologue.party/wp-content/uploads/2024/08/CleanShot-2024-08-22-at-15.47.45_2x.webp', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
