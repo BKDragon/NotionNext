@@ -3,7 +3,7 @@ const CONFIG = {
   MAGZINE_HOME_BANNER_ENABLE: true, // 首屏右上角的宣传位
   MAGZINE_HOME_BUTTON: true,
   MAGZINE_HOME_BUTTON_URL: '/subscription',
-  MAGZINE_HOME_BUTTON_TEXT: 'Join',
+  MAGZINE_HOME_BUTTON_TEXT: 'Subscribe',
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
