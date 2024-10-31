@@ -220,10 +220,10 @@ const LayoutSlug = props => {
                 {/* meta信息 */}
                 <section className='text-lg gap-y-6 text-center lg:text-left'>
                   <div className='text-gray-500 py-1 dark:text-gray-600 '>
-                    {/* <div className='whitespace-nowrap'>
+                    <div className='whitespace-nowrap'>
                       <i className='far fa-calendar mr-2' />
-                      {formatDateFmt(post?.publishDate, 'yyyy-MM-dd')}
-                    </div> */}
+                      {post?.publishDay}
+                    </div>
                     <div className='whitespace-nowrap mr-2'>
                       <i className='far fa-calendar-check mr-2' />
                       {post?.lastEditedDay}
