@@ -222,7 +222,7 @@ const LayoutSlug = props => {
                   <div className='text-gray-500 py-1 dark:text-gray-600 '>
                     {/* <div className='whitespace-nowrap'>
                       <i className='far fa-calendar mr-2' />
-                      {post?.publishDay}
+                      {formatDateFmt(post?.publishDate, 'yyyy-MM-dd')}
                     </div> */}
                     <div className='whitespace-nowrap mr-2'>
                       <i className='far fa-calendar-check mr-2' />
