@@ -39,67 +39,24 @@ const CONFIG = {
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
     {
-      name: '友情链接',
+      name: 'About',
       menus: [
         {
-          title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          title: 'PandaYoo Scholar',
+          href: 'https://scholar.pandayoo.com/about'
         },
         {
-          title: 'NotionNext',
-          href: 'https://www.tangly1024.com'
+          title: 'PandaYoo',
+          href: 'https://pandayoo.com/about-us/'
         }
       ]
     },
     {
-      name: '开发者',
+      name: 'Agreement',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
-        {
-          title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
-        },
-        {
-          title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
-        },
-        {
-          title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
-        },
-        {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
-        }
-      ]
-    },
-    {
-      name: '支持',
-      menus: [
-        {
-          title: '站长社群',
-          href: 'https://docs.tangly1024.com/article/chat-community'
-        },
-        {
-          title: '咨询与定制',
-          href: 'https://docs.tangly1024.com/article/my-service'
-        },
-        {
-          title: '升级手册',
-          href: 'https://docs.tangly1024.com/article/my-service'
-        },
-        {
-          title: '安装教程',
-          href: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
-        },
-        { title: 'SEO推广', href: 'https://seo.tangly1024.com/' }
-      ]
-    },
-    {
-      name: '解决方案',
-      menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: 'Copyright', href: 'https://scholar.pandayoo.com/copyright-statement-dmca-notice' },
+        { title: 'Privacy Policy', href: 'https://scholar.pandayoo.com/privacy' },
+        { title: 'DCMA Report', href: 'https://transparent-gauge-857.notion.site/131ca795c95680b29400f82dd817f9fb' }
       ]
     }
   ],
