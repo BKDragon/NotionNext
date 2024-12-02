@@ -26,7 +26,7 @@ const PostListHorizontal = ({ title, href, posts, hasBg }) => {
             <Link
               className='hidden font-bold lg:block text-lg underline'
               href={href}>
-              <span>查看全部</span>
+              <span>More→</span>
               <i className='ml-2 fas fa-arrow-right' />
             </Link>
           )}
@@ -41,7 +41,7 @@ const PostListHorizontal = ({ title, href, posts, hasBg }) => {
           <Swiper posts={posts} />
           {href && (
             <Link className='lg:hidden block text-lg underline' href={href}>
-              <span>查看全部</span>
+              <span>More→</span>
               <i className='ml-2 fas fa-arrow-right' />
             </Link>
           )}
