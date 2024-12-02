@@ -114,12 +114,13 @@ const LayoutIndex = props => {
  * @param {*} props
  */
 const LayoutPostList = props => {
+  const POST_LIST_STYLE = siteConfig('POST_LIST_STYLE')
   return (
     <>
       <div className='w-full p-2'>
         <WWAds className='w-full' orientation='horizontal' />
       </div>
-      {siteConfig('POST_LIST_STYLE') === 'page' ? (
+      { POST_LIST_STYLE=== 'page' ? (
         <BlogListPage {...props} />
       ) : (
         <BlogListScroll {...props} />
@@ -142,7 +143,7 @@ const LayoutSlug = props => {
       setTimeout(
         () => {
           if (isBrowser) {
-            const article = document.getElementById('notion-article')
+            const article = document.querySelector('#article-wrapper #notion-article')
             if (!article) {
               router.push('/404').then(() => {
                 console.warn('找不到页面', router.asPath)
@@ -158,7 +159,7 @@ const LayoutSlug = props => {
     <>
       {lock ? (
         <ArticleLock validPassword={validPassword} />
-      ) : (
+      ) : post && (
         <ArticleDetail {...props} />
       )}
     </>
