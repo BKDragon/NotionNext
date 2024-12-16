@@ -2,7 +2,7 @@ const CONFIG = {
   NOBELIUM_NAV_NOTION_ICON: true, // 是否读取Notion图标作为站点头像 ; 否则默认显示黑色SVG方块
 
   // 特殊菜单
-  NOBELIUM_MENU_RANDOM_POST: true, // 是否显示随机跳转文章按钮
+  NOBELIUM_MENU_RANDOM_POST: false, // 是否显示随机跳转文章按钮
   NOBELIUM_MENU_SEARCH_BUTTON: true, // 是否显示搜索按钮，该按钮支持Algolia搜索
   NOBELIUM_MENU_DARKMODE_BUTTON: true, // 菜单显示深色模式切换
 
@@ -11,7 +11,7 @@ const CONFIG = {
   NOBELIUM_MENU_TAG: true, // 显示标签
   NOBELIUM_MENU_ARCHIVE: false, // 显示归档
   NOBELIUM_MENU_SEARCH: true, // 显示搜索
-  NOBELIUM_MENU_RSS: false, // 显示订阅
+  NOBELIUM_MENU_RSS: true, // 显示订阅
 
   NOBELIUM_AUTO_COLLAPSE_NAV_BAR: true // 页头导航栏动画
 }
