@@ -17,7 +17,7 @@ const PostItemCardWide = ({ post, showSummary }) => {
   return (
     <div key={post?.id} className='flex justify-between gap-x-6'>
       {/* 卡牌左侧 */}
-      <div className='h-40 w-96 gap-y-3 flex flex-col'>
+      <div className='py-4 h-44 w-96 gap-y-3 flex flex-col'>
         {siteConfig('MAGZINE_POST_LIST_CATEGORY') && (
           <CategoryItem category={post?.category} />
         )}
