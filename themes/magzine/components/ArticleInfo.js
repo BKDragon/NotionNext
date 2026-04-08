@@ -16,7 +16,7 @@ export default function ArticleInfo(props) {
     <>
       <div className='flex flex-col gap-y-4 py-10 px-8 lg:px-8'>
         <div className='flex justify-center items-left space-x-1'>
-          {siteConfig('MAGZINE_POST_LIST_CATEGORY') && (
+          {siteConfig('MAGZINE_POST_DETAIL_CATEGORY') && (
             <CategoryItem category={post?.category} />
           )}
           <div
