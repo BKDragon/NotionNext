@@ -326,7 +326,7 @@ const nextConfig = {
   }
   ,
   experimental: {
-    // cpus: 1,
+    cpus: 1,
     scrollRestoration: true,
     // 性能优化实验性功能
     optimizePackageImports: ['@heroicons/react', 'lodash']
